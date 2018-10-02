@@ -7,7 +7,7 @@ learning takes place.
 
 ## work
 
-[Cybersecurity Liechtenstein](https://www.youtube.com/channel/UClfv_J-akOstq0X9ldDcqTw)
+[cybersecurity liechtenstein](https://www.youtube.com/channel/UClfv_J-akOstq0X9ldDcqTw)
 
 ## learning
-[Public Trello Board](https://trello.com/b/xdyYSaPK/learning-video)
+[public trello board](https://trello.com/b/xdyYSaPK/learning-video)
