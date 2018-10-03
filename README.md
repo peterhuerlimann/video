@@ -1,8 +1,6 @@
-# peterhuerlimann.video
+# peterhuerlimann
 
-videos are created.
-
-learning takes place.
+"Document. Don't create." (Gary Vaynerchuk)
 
 
 ## work
