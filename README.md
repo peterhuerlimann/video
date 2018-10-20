@@ -2,7 +2,7 @@
 
 "Document. Don't create." (Gary Vaynerchuk)
 
-"Don't let perfection get in the way of good enough" (Casey Neistat)
+"Don't let perfection get in the way of good enough." (Casey Neistat)
 
 
 ## work
